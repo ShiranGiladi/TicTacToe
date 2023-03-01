@@ -11,6 +11,7 @@ TicTacToe game with little extra things :)
 4. GoToMenuPopUpWindow - You can decide to go to the menu and start all over again or keep play.
 
 *Menu:* 
+
 Note: the Labal 'Player 2 - Y' supposed to be 'Player 2 - O'
 
 <img src="https://user-images.githubusercontent.com/105810206/220396956-f53e7565-c86d-4f83-ba83-1a30cff6e5d2.jpg" width="500" height="250">
