@@ -10,6 +10,10 @@ TicTacToe game with little extra things :)
 3. PopUpWindow - Show who won in the current round or who won in the all game if this is the last round.
 4. GoToMenuPopUpWindow - You can decide to go to the menu and start all over again or keep play.
 
+A short video of a session game:
+
+https://github.com/ShiranGiladi/TicTacToe/assets/105810206/bbab4ff6-ceec-4f49-a1b6-f4c2cebc9ef3
+
 *Menu:* 
 
 Note: the Labal 'Player 2 - Y' supposed to be 'Player 2 - O'
