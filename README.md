@@ -44,8 +44,4 @@ Note: the Labal 'Player 2 - Y' supposed to be 'Player 2 - O'
 
 <img src="https://user-images.githubusercontent.com/105810206/220400370-a493971d-3efe-41f7-a1b8-9995f2c1d4a0.jpg" width="500" height="250">
 
-A short video of a session game:
-
-https://github.com/ShiranGiladi/TicTacToe/assets/105810206/bbab4ff6-ceec-4f49-a1b6-f4c2cebc9ef3
-
 I worte that in java, javafX and using SceneBuilder.
